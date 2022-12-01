@@ -1,0 +1,4 @@
+What To Do
+- Link all the Fonts And Colors ✅
+- Make Basic Structures And Resuable Css ✅
+- Basic HTML Structures ✅
